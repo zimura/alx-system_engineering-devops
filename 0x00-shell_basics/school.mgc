@@ -1,2 +1,4 @@
 #!/bin/bash
-0 string SCHOOL School data !:mime School
+0 string SCHOOL School data
+!:mime School
+then this file -C -m school.mgc instead of chmod u+x 
